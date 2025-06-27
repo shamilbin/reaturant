@@ -1,0 +1,21 @@
+.header {
+ 
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.nav-items > ul {
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+}
+
+.nav-items > ul > li {
+  margin: 10px;
+  padding: 10px;
+}
+.logo{
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
